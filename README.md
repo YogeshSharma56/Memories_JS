@@ -1,3 +1,4 @@
 # Memories_JS
 
-initial Commit
+Initial Commit 
+Remote Branch configured
